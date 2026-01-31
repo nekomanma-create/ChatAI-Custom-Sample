@@ -44,7 +44,7 @@ def scenario_microservices():
     print("=" * 80 + "\n")
     
     system = create_multi_expert_system()
-    task = "E コマースプラットフォームのマイクロサービス分割設計"
+    task = "Eコマースプラットフォームのマイクロサービス分割設計"
     
     results = system.delegate(task)
     print(results)
