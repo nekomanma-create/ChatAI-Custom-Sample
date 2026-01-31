@@ -77,6 +77,11 @@ print(results)
 
 - Python 3.6 以上
 
+### ドキュメント
+
+- **[VSCodeでコードを書く方法](VSCODE_CODING_GUIDE.md)** - VSCodeを使った開発の完全ガイド
+- **[クイックリファレンス](QUICK_REFERENCE.md)** - このプロジェクトの使い方早見表
+
 ### ライセンス
 
 このプロジェクトはオープンソースです。

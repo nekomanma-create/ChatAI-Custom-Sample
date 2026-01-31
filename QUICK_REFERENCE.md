@@ -1,5 +1,11 @@
 # Quick Reference Guide / クイックリファレンスガイド
 
+## ドキュメント (Documentation)
+
+📚 **[VSCodeでコードを書く方法](VSCODE_CODING_GUIDE.md)** - Visual Studio Codeを使った開発の完全ガイド
+
+---
+
 ## マルチエキスパートシステム (Multi-Expert System)
 
 ### メンバー構成 (Team Structure)
@@ -79,6 +85,7 @@ ChatAI-Custom-Sample/
 ├── .gitignore                    # Git除外設定
 ├── README.md                     # プロジェクト説明
 ├── QUICK_REFERENCE.md           # このファイル
+├── VSCODE_CODING_GUIDE.md       # VSCodeコーディングガイド
 ├── multi_expert_system.py       # メインシステム
 ├── example_usage.py             # 使用例
 ├── additional_scenarios.py      # 追加シナリオ
